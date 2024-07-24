@@ -17,6 +17,8 @@
     p {
         text-align: center;
         font-size: 1rem;
+        font-weight: 300;
+        line-height: 1.4rem;
         padding-bottom: 1.4rem;
     }
 </style>
