@@ -5,8 +5,8 @@
 	import Dress from "./sections/Dress.svelte";
 	import Mensaje from "./sections/Mensaje.svelte";
 	import Instagram from "./sections/Instagram.svelte";
-  import Presentacion from "./sections/Presentacion.svelte";
-  import Hero from "./sections/Hero.svelte";
+	import Presentacion from "./sections/Presentacion.svelte";
+	import Hero from "./sections/Hero.svelte";
 </script>
 
 
