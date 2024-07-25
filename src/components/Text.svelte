@@ -3,7 +3,11 @@
 
     export let text = "textos";
     export let buttonText = "click";
+    export let buttonUrl = "#";
+    export let buttonNewTab = false;
     export let buttonStyleClass = "button-default";
+    export let imageUrl = "";
+    export let imageAlt = "Image";
 </script>
 
 
@@ -26,5 +30,5 @@
 
 <div>
     <p>{ text }</p>
-    <Button text={buttonText} styleClass={buttonStyleClass} />
+    <Button text={buttonText} styleClass={buttonStyleClass} url={buttonUrl} newTab={buttonNewTab}/>
 </div>
