@@ -1,5 +1,4 @@
 <script>
-	import Instagram from './Instagram.svelte';
 	import Text from './../components/Text.svelte';
     import imgTitle from "../images/titleInstagram.png";
     import Button from '../components/Button.svelte';

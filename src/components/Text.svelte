@@ -6,8 +6,6 @@
     export let buttonUrl = "#";
     export let buttonNewTab = false;
     export let buttonStyleClass = "button-default";
-    export let imageUrl = "";
-    export let imageAlt = "Image";
 </script>
 
 

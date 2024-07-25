@@ -1,5 +1,4 @@
 <script>
-	import Dress from './Dress.svelte';
 	import Text from './../components/Text.svelte';
     import imgTitle from "../images/titleDress.png";
 </script>

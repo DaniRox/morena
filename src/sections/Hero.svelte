@@ -10,8 +10,6 @@
         display: flex;
         flex-direction: column;
     }
-    .img {
-    }
     img {
         height: 100%;
         overflow: hidden;
