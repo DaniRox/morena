@@ -14,8 +14,8 @@
         align-items: center;
     }
     img {
-        height: 4rem;
-        margin-bottom: 0.2rem;
+        height: 4.4rem;
+        margin-bottom: 0.3rem;
     }
     .card {
         width: 80%;

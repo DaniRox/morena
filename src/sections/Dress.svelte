@@ -14,8 +14,8 @@
         align-items: center;
     }
     img {
-        height: 4.3rem;
-        margin-bottom: 0.2rem;
+        height: 4.4rem;
+        margin-bottom: 0.3rem;
     }
     @media (min-width: 768px) {
         img {

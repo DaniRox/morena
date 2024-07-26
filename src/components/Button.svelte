@@ -9,7 +9,7 @@
 <style>
     .Button {
         font-size: 0.9rem;
-        padding: 0.7rem 0.8rem;
+        padding: 0.7rem 0.9rem;
         font-weight: 500;
         border-radius: 0.3rem;
         text-transform: uppercase;
@@ -55,7 +55,16 @@
     .button-none {
         display: none;
     }
-
+    @media (min-width: 768px) {
+        .Button {
+            font-size: 0.8rem;
+            padding: 0.7rem 0.9rem;
+            font-weight: 500;
+            border-radius: 0.3rem;
+            text-transform: uppercase;
+            transition: all 0.3s;
+        }
+    }
 </style>
 
 

@@ -6,8 +6,8 @@
 
 <style>
     img {
-        height: 4.3rem;
-        margin-bottom: 0.2rem;
+        height: 4.4rem;
+        margin-bottom: 0.3rem;
     }
     .Ubicacion {
         width: 100%;
@@ -28,9 +28,6 @@
         }
         .Ubicacion {
             padding: 4rem 20%;
-        }
-        iframe {
-            
         }
     }
     @media (min-width: 1024px) {
