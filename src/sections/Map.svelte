@@ -42,7 +42,7 @@
 
 
 <div class="Ubicacion">
-    <img src={imgTitle} alt="">
+    <img src={imgTitle} alt="Titulo Cena y Fiesta">
 
     <Text 
         text="La fiesta será el dia 2 de Noviembre. Los esperamos a las 20:00 hs en “Sutna Pilar”, salón ubicado en Saravi 1800, La Lonja, Pilar." 

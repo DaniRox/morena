@@ -74,7 +74,7 @@
 
 
 <div class="Mensaje">
-    <img src={imgTitle} alt="">
+    <img src={imgTitle} alt="Titulo Deja un Mensaje">
     <Text 
         text="Comparte tus buenos deseos y mensajes especiales para [Nombre de la cumpleañera]. Ella estará encantada de leerlos y guardarlos como un precioso recuerdo." 
         buttonStyleClass="button-none"

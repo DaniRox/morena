@@ -34,7 +34,7 @@
 
 
 <div class="Dress">
-    <img src={imgTitle} alt="">
+    <img src={imgTitle} alt="Titulo DressCode">
     <Text 
         text="Para esta noche tan especial, queremos que todos nuestros invitados se sientan parte de la magia. Les pedimos asistir con vestimenta elegantes.
 
