@@ -13,6 +13,7 @@
         overflow: hidden;
         display: flex;
         justify-content: center;
+        height: 100%;
     }
     .img {
         max-width: max-content;
@@ -40,7 +41,7 @@
 
     @media (min-width: 650px) {
         .Hero {
-            height: 33rem;
+            height: 37rem;
             overflow: hidden;
         }
         .div-img {
@@ -52,6 +53,7 @@
             max-width: none;
             position: inherit;
             top: -4rem;
+            height: min-content;
         }
         
         .morena {
@@ -60,8 +62,11 @@
         }
     }
     @media (min-width: 1024px) {
+        .Hero {
+            height: 33rem;
+        }
         .img {
-            top: -10rem;
+            top: -8rem;
         }
         .morena {
             height: 14rem;
