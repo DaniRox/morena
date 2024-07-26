@@ -11,7 +11,7 @@
     }
     .Ubicacion {
         width: 100%;
-        padding: 3rem 10%;
+        padding: 4rem 10%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -27,12 +27,12 @@
             margin-bottom: 0.5rem;
         }
         .Ubicacion {
-            padding: 4rem 20%;
+            padding: 5rem 20%;
         }
     }
     @media (min-width: 1024px) {
         .Ubicacion {
-            padding: 5rem 25%;
+            padding: 6rem 25%;
         }
     }
 </style>

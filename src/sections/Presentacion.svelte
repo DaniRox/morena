@@ -6,7 +6,7 @@
 <style>
     .Presentacion {
         width: 100%;
-        padding: 3rem 10%;
+        padding: 4rem 10%;
     }
     p {
         color: var(--oldRose);
@@ -17,12 +17,12 @@
     }
     @media (min-width: 768px) {
         .Presentacion {
-            padding: 4rem 20%;
+            padding: 5rem 20%;
         }
     }
     @media (min-width: 1024px) {
         .Presentacion {
-            padding: 5rem 25%;
+            padding: 6rem 25%;
         }
     }
 </style>

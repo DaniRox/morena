@@ -7,16 +7,16 @@
 <style>
     .Confirmar {
         width: 100%;
-        padding: 0rem 10% 3rem;
+        padding: 1rem 10% 4rem;
     }
     @media (min-width: 768px) {
         .Confirmar {
-            padding: 0 20% 4rem;
+            padding: 1rem 20% 5rem;
         }
     }
     @media (min-width: 1024px) {
         .Confirmar {
-            padding: 0 25% 5rem;
+            padding: 1rem 25% 6rem;
         }
     }
 </style>

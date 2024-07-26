@@ -8,7 +8,7 @@
 <style>
     .Instagram {
         width: 100%;
-        padding: 3rem 10%;
+        padding: 4rem 10%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -44,7 +44,7 @@
             margin-bottom: 0.5rem;
         }
         .Instagram {
-            padding: 4rem 20%;
+            padding: 5rem 20%;
         }
         .card {
             width: 60%;
@@ -52,7 +52,7 @@
     }
     @media (min-width: 1024px) {
         .Instagram {
-            padding: 5rem 25%;
+            padding: 6rem 25%;
         }
     }
 </style>

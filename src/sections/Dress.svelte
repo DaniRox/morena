@@ -8,7 +8,7 @@
     .Dress {
         background-color: var(--timberwolf);
         width: 100%;
-        padding: 3rem 10%;
+        padding: 4rem 10%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -22,12 +22,12 @@
             margin-bottom: 0.5rem;
         }
         .Dress {
-            padding: 4rem 20%;
+            padding: 5rem 20%;
         }
     }
     @media (min-width: 1024px) {
         .Dress {
-            padding: 5rem 25%;
+            padding: 6rem 25%;
         }
     }
 </style>

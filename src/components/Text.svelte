@@ -21,7 +21,7 @@
         font-size: 1.1rem;
         font-weight: 300;
         line-height: 1.4rem;
-        padding-bottom: 1.4rem;
+        padding-bottom: 2rem;
     }
 </style>
 

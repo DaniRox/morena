@@ -8,16 +8,16 @@
     .Agendar {
         background-color: var(--timberwolf);
         width: 100%;
-        padding: 3rem 10%;
+        padding: 4rem 10%;
     }
     @media (min-width: 768px) {
         .Agendar {
-            padding: 4rem 20%;
+            padding: 5rem 20%;
         }
     }
     @media (min-width: 1024px) {
         .Agendar {
-            padding: 5rem 25%;
+            padding: 6rem 25%;
         }
     }
 </style>
