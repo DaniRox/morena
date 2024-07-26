@@ -2,9 +2,6 @@
 	import Text from './../components/Text.svelte';
     import imgTitle from "../images/titleInstagram.png";
     import Button from '../components/Button.svelte';
-    
-    export let buttonText = "click";
-    export let buttonStyleClass = "button-default";
 </script>
 
 

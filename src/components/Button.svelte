@@ -8,7 +8,7 @@
 
 <style>
     .Button {
-        font-size: 0.7rem;
+        font-size: 0.9rem;
         padding: 0.7rem 0.8rem;
         font-weight: 500;
         border-radius: 0.3rem;
