@@ -7,7 +7,7 @@
 <style>
     img {
         height: 4.4rem;
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.5rem;
     }
     .Ubicacion {
         width: 100%;
@@ -24,7 +24,7 @@
     }
     @media (min-width: 768px) {
         img {
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.7rem;
         }
         .Ubicacion {
             padding: 5rem 20%;

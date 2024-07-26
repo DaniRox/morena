@@ -15,7 +15,7 @@
     }
     img {
         height: 4.4rem;
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.5rem;
     }
     .card {
         width: 80%;
@@ -41,7 +41,7 @@
     }
     @media (min-width: 768px) {
         img {
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.7rem;
         }
         .Instagram {
             padding: 5rem 20%;

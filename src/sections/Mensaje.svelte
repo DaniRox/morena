@@ -15,11 +15,11 @@
     }
     img {
         height: 4.4rem;
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.5rem;
     }
     @media (min-width: 768px) {
         img {
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.7rem;
         }
         .card {
             width: 60%;
