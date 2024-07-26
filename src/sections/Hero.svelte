@@ -6,7 +6,7 @@
 
 <style>
     .Hero {
-        height: 38rem;
+        height: 41rem;
         position: relative;
     }
     .div-img {
@@ -41,7 +41,6 @@
 
     @media (min-width: 650px) {
         .Hero {
-            height: 37rem;
             overflow: hidden;
         }
         .div-img {
@@ -52,7 +51,6 @@
             width: 100%;
             max-width: none;
             position: inherit;
-            top: -4rem;
             height: min-content;
         }
         
