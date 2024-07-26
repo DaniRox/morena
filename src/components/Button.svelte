@@ -57,7 +57,7 @@
     }
     @media (min-width: 768px) {
         .Button {
-            font-size: 0.8rem;
+            font-size: 0.7rem;
             padding: 0.7rem 0.9rem;
             font-weight: 500;
             border-radius: 0.3rem;

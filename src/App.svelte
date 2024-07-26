@@ -24,6 +24,7 @@
 
 
 <main>
+	<Hero />
 	<Presentacion />
 	<Map />
 	<ConfirmarAsistencia />
